@@ -1,13 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-<!--
-**sanoy-si/sanoy-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
--->
+- 🔭 I’m currently working on Backend Web Development using Django
+- 👯 I’m looking to collaborate on any fun project
+- 🧐 I'm interested in competitve programming
+- 📫 How to reach me: Gmail:amyonassintayehu@gmail.com
+- 😄 Pronouns: He/Him
