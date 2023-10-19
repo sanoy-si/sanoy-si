@@ -3,6 +3,9 @@
 - 👯 I’m looking to collaborate on any fun project
 - 📫 How to reach me: amyonassintayehu@gmail.com
 - 😄 Pronouns: He/Him
+
+![Profile views](https://komarev.com/ghpvc/?username=d3mah-24&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 🔧 Technologies & Tools
 
 <p>   
