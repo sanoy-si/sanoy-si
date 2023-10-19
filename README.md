@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Yonas
-- 🔭 I’m currently working on Backend Web Development using Django
-- 🧐 I'm interested in competitve programming
+- 🔭 I’m currently working on Backend Web Development using Django, DRF
 - 👯 I’m looking to collaborate on any fun project
-- 📫 How to reach me: Gmail:amyonassintayehu@gmail.com
+- 📫 How to reach me: amyonassintayehu@gmail.com
 - 😄 Pronouns: He/Him
 ## 🔧 Technologies & Tools
 
