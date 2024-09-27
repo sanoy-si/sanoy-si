@@ -2,9 +2,6 @@
 
 My name is Yonas, and I'm a 4th-year CSE student at [ASTU](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A13022704&keywords=adama%20science%20and%20technology%20university&origin=RICH_QUERY_SUGGESTION&position=0&searchId=962e15d6-4e75-4788-ad9a-0c8ad5956cd0&sid=kj6&spellCorrectionEnabled=false) and SWE trainee at [A2SV](https://a2sv.org/) interested in software development, particularly in building scalable applications, optimizing algorithms, and exploring emerging technologies that enhance user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 
 <!--
 **sanoy-si/sanoy-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
