@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Yonas, and I'm a 4th-year CSE student at [ASTU](https://www.linkedin.com/school/adastu/posts/?feedView=all) and SWE trainee at [A2SV](https://a2sv.org/) interested in software development, particularly in building scalable applications, optimizing algorithms, and exploring emerging technologies that enhance user experiences.
+My name is Yonas. I’m a fourth-year Computer Science and Engineering student with a strong interest in software development — particularly in building scalable applications, optimizing algorithms, and exploring emerging technologies that enhance user experiences.
 
 
 <!--
