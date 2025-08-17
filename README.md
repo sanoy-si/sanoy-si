@@ -1,19 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Yonas Sintayehu Abebe (sanoy-si)
 
-My name is Yonas. I’m a fourth-year Computer Science and Engineering student with a strong interest in software development — particularly in building scalable applications, optimizing algorithms, and exploring emerging technologies that enhance user experiences.
+I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to solve real-world problems with code. My journey blends software engineering, machine learning, and data-driven innovation, fueled by a love for competitive programming and chess.
 
+---
 
-<!--
-**sanoy-si/sanoy-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💻 **Profession:** Full Stack Developer & AI/ML Engineer
+- 🧠 **Interests:** Deep Learning, Data Science, Full Stack Web, Systems Engineering, Competitive Programming
+- ♟️ **Hobbies:** Chess, logic puzzles, and algorithmic challenges
+- 🌱 Always learning, building, and collaborating!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Top Skills
+
+- **Languages:** Python, JavaScript/TypeScript, C++, SQL
+- **Frameworks:** React, Node.js, Express, Django, FastAPI
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, NLP, Computer Vision
+- **Cloud & DevOps:** Docker, AWS, GitHub Actions
+- **Other:** REST APIs, Data Analytics, System Design
+
+---
+
+## 📈 Favorite Projects
+> Explore more in my portfolio ([yonas-abebe.dev](https://www.yonas-abebe.dev))
+
+---
+
+## 🌍 Connect & Compete
+
+- [LinkedIn](https://www.linkedin.com/in/yonas-sintayehu-341a06233/)
+- [GitHub](https://github.com/sanoy-si)
+- [LeetCode](https://leetcode.com/u/sanoy-si/)
+- [Codeforces](https://codeforces.com/profile/Sanoy-si)
+
+---
+
+## 🏅 Affiliations
+
+- [A2SV](https://a2sv.org/) – Africa to Silicon Valley
+- [10 Academy](https://10academy.org/)
+- [Eskalate](https://www.eskalate.io/)
+
+---
+
+## 💬 Bio / Motto
+
+> “Building intelligent systems, one challenge at a time.”
+
+---
+
+## ⚡ Fun Fact
+
+If I'm not coding, you'll probably find me deep in a chess match or climbing the leaderboards in competitive programming!
+
+---
+
+![sanoy-si's github stats](https://github-readme-stats.vercel.app/api?username=sanoy-si&show_icons=true&theme=github_dark)
