@@ -23,8 +23,6 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to so
 
 ---
 
----
-
 ## 🌍 Connect & Compete
 
 - [LinkedIn](https://www.linkedin.com/in/yonas-sintayehu-341a06233/)
