@@ -23,9 +23,6 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to so
 
 ---
 
-## 📈 Favorite Projects
-> Explore more in my portfolio ([yonas-abebe.dev](https://www.yonas-abebe.dev))
-
 ---
 
 ## 🌍 Connect & Compete
