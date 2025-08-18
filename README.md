@@ -45,10 +45,5 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to so
 
 ---
 
-## ⚡ Fun Fact
-
-If I'm not coding, you'll probably find me deep in a chess match or climbing the leaderboards in competitive programming!
-
----
 
 ![sanoy-si's github stats](https://github-readme-stats.vercel.app/api?username=sanoy-si&show_icons=true&theme=github_dark)
