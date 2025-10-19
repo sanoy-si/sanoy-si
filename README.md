@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yonas Sintayehu Abebe (sanoy-si)
+# 👋 Hi, I'm Yonas Sintayehu Abebe 
 
-I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to solve real-world problems with code. My journey blends software engineering, machine learning, and data-driven innovation, fueled by a love for competitive programming and chess.
+I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to solve real-world problems with code. My journey blends software engineering, machine learning, and data-driven innovation.
 
 ---
 
