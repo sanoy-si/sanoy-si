@@ -39,6 +39,4 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to so
 - [Eskalate](https://www.eskalate.io/)
 
 ---
-
-
-![sanoy-si's github stats](https://github-readme-stats.vercel.app/api?username=sanoy-si&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanoy-si&show_icons=true&theme=dark)
