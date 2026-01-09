@@ -16,9 +16,8 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** who loves to so
 ## ⭐ Top Skills
 
 - **Languages:** Python, JavaScript/TypeScript, C++, SQL
-- **Frameworks:** React, Next.js, Django, FastAPI
-- **AI/ML:** PyTorch, Scikit-learn, NLP, Computer Vision
-- **Cloud & DevOps:** Docker, AWS, GitHub Actions
+- **Frameworks:** React, React.js, Django, FastAPI
+- **AI/ML:** PyTorch, Scikit-learn, NLP
 - **Other:** REST APIs, Data Analytics, System Design
 
 ---
